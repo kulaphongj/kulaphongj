@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Kulaphong Jitareerat or **YOK**, and this is a glimpse into my projects on GitHub! Here's a quick overview of what I've been working on:
+Welcome to my GitHub! I'm Kulaphong Jitareerat or **YOK**, and this is a glimpse into my projects on GitHub! Here's a quick overview of what I've been working on:
 
 ### Projects
 
