@@ -10,7 +10,7 @@ This project investigates the comparative efficacy of various pretrained convolu
 #### 2. [Understanding Diabetes Risk](https://github.com/kulaphongj/diabetes_prediction)
 This project analyzes health data from over 250,000 individuals to identify factors that might increase the risk of developing diabetes. By using various machine learning models and statistics, the goal is to understand how personal details and health indicators can predict diabetes risk and inform health policy decisions.
 
-#### 3. [Discover Your Music Taste Dashboard](https://github.com/kulaphongj/discover-your-music-taste-dashboard)
+#### 3. [Discover Your Music Taste Dashboard](https://github.com/kulaphongj/spotify_dashboard)
 An interactive dashboard that uses Spotify data to help users explore their music preferences. It features advanced data visualizations and customizable filters to uncover new tracks and understand listening habits.
 
 #### 4. [Milk Quality Prediction](https://github.com/kulaphongj/milk_quality_prediction)
